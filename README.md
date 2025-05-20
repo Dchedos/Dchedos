@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dchedos
-- 👀 I’m interested in becoming a full-stack programmer
-- 🌱 I’m currently learning Software Engineering with ALX
-- 💞️ I’m looking to collaborate on projects on software engineering
+- 👀 Frontend web developer
+- 🌱 Graduate of ALX Software Engineering Pragramme
+- 💞️ Looking forward to collaborate on projects
 - 📫 
 
 <!---
